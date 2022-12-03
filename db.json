@@ -1,0 +1,197 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "dev@admin.me",
+      "password": "$2a$10$vvpTDyLSJVXoxp9yURfDUe0lTv7GKh5COn6yEKA/D.7Cn1bFdYQKG",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "sample@dev",
+      "password": "$2a$10$Vviu.6gs/PIqwcX4VDakNuWn/EmKieUH8FNlskgKmQfvDnvqplCmu",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "ggg@gg.com",
+      "password": "$2a$10$ZVZI2VbUReGNLfkWiOyCteRqwKRtbDiRw4KL86eS6/hVSkgCBCDyi",
+      "role": "user"
+    },
+    {
+      "email": "g1@dev",
+      "password": "$2a$10$.9GGO9BfJi6s1mNmMVMryekKU8FYrC/OaxlT86dxz9QyzWH8Y8UKG",
+      "id": 4,
+      "role": "user"
+    },
+    {
+      "email": "g6@dev",
+      "password": "$2a$10$pBAKhPdFpfb03Ei9hcIaNu2tJqynGID0BUEPoGE.rQIpzG9GAp646",
+      "id": 5
+    },
+    {
+      "email": "tzuhsuan1999@gmail.com",
+      "password": "$2a$10$BDj9h5RbijTczXWvhDZlCOxzE4ApPc39oTZoUEG0DmW0ZAVVX6FL6",
+      "userName": "Winnie",
+      "id": 6
+    },
+    {
+      "email": "tzuhsuan1998@gmail.com",
+      "password": "$2a$10$SMOKlIDLIbkicsmP1v.CYORrg5.Ewha3SPsEFLojWG7.jzP.eV/QC",
+      "userName": "Bob",
+      "id": 7
+    }
+  ],
+  "hotSalesProducts": [
+    {
+      "id": 1,
+      "title": "深沈盛夏多層次頸鏈",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Necklaces/kateryna-hliznitsova-vbnxgxj6cJg-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "necklace"
+    },
+    {
+      "id": 2,
+      "title": "愛的輪廓鎖鏈手鍊",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Bracelets/nati-melnychuk-oO0JAOJhquk-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "bracelet"
+    },
+    {
+      "id": 3,
+      "title": "流淌時光戒指組合",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Rings/kateryna-hliznitsova-pjrPWwwYx1I-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "ring"
+    },
+    {
+      "id": 4,
+      "title": "簡約麻花圈形耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/EarRings/nati-melnychuk-Ki7TPcA9204-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "earing"
+    },
+    {
+      "id": 5,
+      "title": "淡雅扁細鎖骨鍊",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Necklaces/cat-han-Ks6wd1Zyf1o-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "necklace"
+    },
+    {
+      "id": 6,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/EarRings/nati-melnychuk-uLNTM-FiiTc-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "earing"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "深沈盛夏多層次頸鏈",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Necklaces/kateryna-hliznitsova-vbnxgxj6cJg-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "necklace",
+      "remark": "hotSales"
+    },
+    {
+      "id": 2,
+      "title": "愛的輪廓鎖鏈手鍊",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Bracelets/nati-melnychuk-oO0JAOJhquk-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "bracelet",
+      "remark": "hotSales"
+    },
+    {
+      "id": 3,
+      "title": "流淌時光戒指組合",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Rings/kateryna-hliznitsova-pjrPWwwYx1I-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "ring",
+      "remark": "hotSales"
+    },
+    {
+      "id": 4,
+      "title": "簡約麻花圈形耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/EarRings/nati-melnychuk-Ki7TPcA9204-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "earing",
+      "remark": "hotSales"
+    },
+    {
+      "id": 5,
+      "title": "淡雅扁細鎖骨鍊",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Necklaces/cat-han-Ks6wd1Zyf1o-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "necklace",
+      "remark": "hotSales"
+    },
+    {
+      "id": 6,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/EarRings/nati-melnychuk-uLNTM-FiiTc-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "earing",
+      "remark": "hotSales"
+    },
+    {
+      "id": 7,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/EarRings/alyssa-strohmann-qOIGvGoVNtc-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "earing",
+      "remark": "new"
+    },
+    {
+      "id": 8,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Necklaces/jasmin-chew-MIyo2hqbAzk-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "pendant",
+      "remark": "new"
+    },
+    {
+      "id": 9,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Pendants/natalie-sysko-0IOY1_3d-r0-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "pendant",
+      "remark": ""
+    },
+    {
+      "id": 10,
+      "title": "閃爍星光耳環",
+      "imgUrl": "https://github.com/winniewuwinnie/JS-project_JewelryShop/blob/main/images/products/Pendants/jasmin-chew-WKD2vIe8Rb0-unsplash.jpg?raw=true",
+      "originPrice": 9980,
+      "price": 7980,
+      "category": "pendant",
+      "remark": ""
+    }
+  ],
+  "bookmarks": [
+    {
+      "userId": 1,
+      "productId": 1,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
